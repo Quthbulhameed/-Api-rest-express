@@ -12,7 +12,8 @@ Ce projet est une API REST créée avec Express et MongoDB pour gérer des utili
 - Une instance MongoDB en cours d'exécution (localement ou en ligne)
 
 
-### Routes disponibles
+### Endpoints
+La liste des endpoints disponibles dans cette API REST et leur utilisation sont décrits ci-dessous :
 
 - Ajouter un utilisateur : POST
 - Tous les utilisateurs : GET 
