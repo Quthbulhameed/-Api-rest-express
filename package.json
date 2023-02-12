@@ -1,5 +1,5 @@
 {
-  "name": "api_rest_express_mongo_docker",
+  "name": "api_restexpress_mongo",
   "version": "1.0.0",
   "description": "API REST CRUD Express Mongo",
   "main": "index.js",
