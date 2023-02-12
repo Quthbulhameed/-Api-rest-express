@@ -14,11 +14,11 @@ Ce projet est une API REST créée avec Express et MongoDB pour gérer des utili
 
 ### Routes disponibles
 
-Ajouter un utilisateur : POST
-Tous les utilisateurs : GET 
-Un utilisateur par son id : GET 
-Modifier un utilisateur par son id : PUT 
-Supprimer un utilisateur par son id : DELETE 
+- Ajouter un utilisateur : POST
+- Tous les utilisateurs : GET 
+- Un utilisateur par son id : GET 
+- Modifier un utilisateur par son id : PUT 
+- Supprimer un utilisateur par son id : DELETE 
 
 
 
